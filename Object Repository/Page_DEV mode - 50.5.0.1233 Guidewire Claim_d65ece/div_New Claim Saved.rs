@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_New Claim Saved</name>
+   <tag></tag>
+   <elementGuidId>782e335d-d8c9-442a-8f61-903445e4949e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.gw-TitleBar--title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='NewClaimSaved-NewClaimSavedScreen-ttlBar']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;New Claim Saved&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>76935798-abb1-44d4-b49f-92f92ab12872</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-TitleBar--title</value>
+      <webElementGuid>93d4747f-6b60-4fbd-ba8a-6cd6909b181c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>heading</value>
+      <webElementGuid>dca9346d-1a18-4511-ba37-5a57ff65e83e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-level</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>3a6ab31c-b689-4f8e-967f-20310d35cc21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New Claim Saved</value>
+      <webElementGuid>a7901d4e-ee20-4a5c-900f-d3b92f1389cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;NewClaimSaved-NewClaimSavedScreen-ttlBar&quot;)/div[@class=&quot;gw-TitleBar--titles--container&quot;]/div[@class=&quot;gw-TitleBar--title&quot;]</value>
+      <webElementGuid>1e26a860-524c-4be4-976a-7da6d7618b9f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='NewClaimSaved-NewClaimSavedScreen-ttlBar']/div/div</value>
+      <webElementGuid>84c52e63-3132-423b-9b10-53f6781cb91b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out Super User'])[1]/following::div[5]</value>
+      <webElementGuid>712e9825-f8f3-4f2d-80f6-38289d330819</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LO'])[1]/following::div[6]</value>
+      <webElementGuid>90c77004-4eea-440e-a5fb-220c6742bab2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Claim 000-00-002553 has been successfully saved.'])[1]/preceding::div[5]</value>
+      <webElementGuid>52d28139-0c9e-4965-838e-c001ee223c19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assigned Group: Property - TeamB'])[1]/preceding::div[9]</value>
+      <webElementGuid>edabd293-f8a5-4289-ace4-17a81db48e88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='New Claim Saved']/parent::*</value>
+      <webElementGuid>aaeaa933-07fa-41d6-aff4-431d8adc19c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div</value>
+      <webElementGuid>7ef36491-c9ae-4951-a5d2-b1b2431e30e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'New Claim Saved' or . = 'New Claim Saved')]</value>
+      <webElementGuid>3edcf8b8-5318-4f8f-bf4a-2ac7fc12c714</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Claim 000-00-002009 has been successfully saved.'])[1]/preceding::div[5]</value>
+      <webElementGuid>b3bd9f01-e76e-4152-9109-7fd5dfd600bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assigned Group: Auto1 - TeamB'])[1]/preceding::div[9]</value>
+      <webElementGuid>9bfa2a4a-e521-4d7a-ac3a-d279cbfc9c78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

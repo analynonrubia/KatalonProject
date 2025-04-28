@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Submission Bound</name>
+   <tag></tag>
+   <elementGuidId>24f54e00-a765-4828-80fc-17d778dc5ab8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.gw-TitleBar--title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='JobComplete-JobCompleteScreen-ttlBar']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Submission Bound&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4292645a-6830-4b3a-8963-cb6b25b30de3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-TitleBar--title</value>
+      <webElementGuid>39d790a7-77c6-402d-9f21-e89e61f30cf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>heading</value>
+      <webElementGuid>fef71407-9d64-4149-a225-1ca184db6196</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-level</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>f10a64f9-8f00-43c6-b016-ed20d6b58667</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submission Bound</value>
+      <webElementGuid>80266338-09e3-401a-b83f-c1d754d14273</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;JobComplete-JobCompleteScreen-ttlBar&quot;)/div[@class=&quot;gw-TitleBar--titles--container&quot;]/div[@class=&quot;gw-TitleBar--title&quot;]</value>
+      <webElementGuid>80ae3ebb-4b1b-453b-91ad-a024738669ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='JobComplete-JobCompleteScreen-ttlBar']/div/div</value>
+      <webElementGuid>34c5dd14-1d6f-4867-a5b2-0618f76ca141</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Steve Smith'])[1]/following::div[5]</value>
+      <webElementGuid>8f3f78f7-0b64-4d5d-8086-afded08fbf7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Underwriter:'])[1]/following::div[6]</value>
+      <webElementGuid>a1b8f69d-59f4-4bd7-b824-e8c7722836f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Submission (#0003825579) has been bound.'])[1]/preceding::div[5]</value>
+      <webElementGuid>cf19795e-243a-4208-92c3-9c6287ed7432</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View your submission (#0003825579)'])[1]/preceding::div[11]</value>
+      <webElementGuid>6e6c44a8-5d68-4eb7-9ade-4a7ad4039175</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Submission Bound']/parent::*</value>
+      <webElementGuid>ba834856-669b-45b0-9fb5-74626f91b433</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div</value>
+      <webElementGuid>913212b3-61a4-49a6-9825-8e76ca9241cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Submission Bound' or . = 'Submission Bound')]</value>
+      <webElementGuid>fc35d4a9-8ef2-4460-9fa3-8898d5431678</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bruce Baker'])[1]/following::div[5]</value>
+      <webElementGuid>c8ef7a2e-74ca-4b99-83a9-6d4f0d4c42e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Submission (#0000028236) has been bound.'])[1]/preceding::div[5]</value>
+      <webElementGuid>2d6d2b17-2ac2-48df-8516-9d54288e25e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View your submission (#0000028236)'])[1]/preceding::div[11]</value>
+      <webElementGuid>f36e99b9-7ef2-4bfd-a5a3-b4426d10a64f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
