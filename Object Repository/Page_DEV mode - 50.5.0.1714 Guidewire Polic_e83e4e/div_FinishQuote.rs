@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_FinishQuote</name>
+   <tag></tag>
+   <elementGuidId>574e939c-2f1c-4db8-97e2-86dcad65e5f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.gw-action--inner.gw-hasDivider.gw-focus > div.gw-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='SubmissionWizard-SubmissionWizard_QuoteScreen-JobWizardToolbarButtonSet-QuoteTypeToolbarButtonSet-FinishQuote']/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Finish Quote&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>89cedfa1-1714-44c6-b2fc-f19afe637f4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-label</value>
+      <webElementGuid>277b8e40-cd7e-4882-9feb-3be7ebaa8493</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Finish Quote</value>
+      <webElementGuid>0b17152f-5580-4f1e-8b23-07bec3bf37a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Finish Quote</value>
+      <webElementGuid>e3ae3a24-7497-4097-ace3-84da2d76d908</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SubmissionWizard-SubmissionWizard_QuoteScreen-JobWizardToolbarButtonSet-QuoteTypeToolbarButtonSet-FinishQuote&quot;)/div[@class=&quot;gw-action--inner gw-hasDivider gw-focus&quot;]/div[@class=&quot;gw-label&quot;]</value>
+      <webElementGuid>65970828-c897-4566-8481-3fcc8ec1326d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SubmissionWizard-SubmissionWizard_QuoteScreen-JobWizardToolbarButtonSet-QuoteTypeToolbarButtonSet-FinishQuote']/div/div[2]</value>
+      <webElementGuid>c276618e-71be-4877-9d78-cc9db51c683b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FQ'])[1]/following::div[1]</value>
+      <webElementGuid>3af78240-f773-40b1-a347-a85a9fc6cecf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='k'])[2]/following::div[5]</value>
+      <webElementGuid>eb1924e3-0f74-4d63-82f3-cbd8128a3282</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EP'])[1]/preceding::div[2]</value>
+      <webElementGuid>a2e9e087-39c6-4316-a7b4-7d030d6027ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div[4]/div/div[2]</value>
+      <webElementGuid>4fcda34d-ae69-4ab7-992b-20e71596acf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Finish Quote' or . = 'Finish Quote')]</value>
+      <webElementGuid>195427d1-56f0-439b-8d62-1cb3340f3397</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
