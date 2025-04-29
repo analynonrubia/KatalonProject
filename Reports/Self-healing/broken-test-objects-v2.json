@@ -1,3 +1,24 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_DEV mode - 50.5.0.1714 Guidewire Polic_e83e4e/div_Bind Options",
+      "brokenLocator": "//div[@id\u003d\u0027SubmissionWizard-SubmissionWizard_QuoteScreen-JobWizardToolbarButtonSet-BindOptions\u0027]/div/div[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "div.gw-action--inner.gw-focus \u003e div.gw-label",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_DEV mode - 50.5.0.1714 Guidewire Polic_e83e4e/div_Bind Options_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_DEV mode - 50.5.0.1714 Guidewire Polic_e83e4e/div_Issue Policy",
+      "brokenLocator": "//div[@id\u003d\u0027SubmissionWizard-SubmissionWizard_QuoteScreen-JobWizardToolbarButtonSet-BindOptions-BindAndIssue\u0027]/div/div[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027IP\u0027])[1]/following::div[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    }
+  ]
 }
