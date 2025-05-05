@@ -6,15 +6,15 @@
    <elementGuidId>6b865dbc-0f60-4612-b68a-cf94a04e8756</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.gw-action--inner.gw-focus > div.gw-label</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='SubmissionWizard-SubmissionWizard_QuoteScreen-JobWizardToolbarButtonSet-BindOptions']/div/div[2]</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.gw-action--inner.gw-focus > div.gw-label</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
