@@ -1,1 +1,7 @@
+#ignoring specific file
+.env
+.project
+
+#ignoring specific directires
 /bin/
+/Reports/
