@@ -1,6 +1,8 @@
 #ignoring specific file
 .env
 .project
+.classpath
+
 
 #ignoring specific directires
 /bin/
