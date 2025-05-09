@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_ddt</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b3ecf970-041e-4a9e-8ae5-5def20ada068</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>3c9a82a4-82ed-46eb-87e0-c85170c6d21c</id>
+      <iterationEntity>
+         <iterationType>RANGE</iterationType>
+         <value>1-20</value>
+      </iterationEntity>
+      <testDataId>Data Files/Accounts/Person Account</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>3c9a82a4-82ed-46eb-87e0-c85170c6d21c</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>First Name</value>
+      <variableId>0149925f-de45-4b4c-97f0-02b89fe61f66</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>3c9a82a4-82ed-46eb-87e0-c85170c6d21c</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Last Name</value>
+      <variableId>c5f1bd3f-45d8-4926-aa33-350f7d4e47d2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0149925f-de45-4b4c-97f0-02b89fe61f66</id>
+      <masked>false</masked>
+      <name>FName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c5f1bd3f-45d8-4926-aa33-350f7d4e47d2</id>
+      <masked>false</masked>
+      <name>LName</name>
+   </variable>
+</TestCaseEntity>
