@@ -21,23 +21,11 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://3.17.237.109:8180/pc/PolicyCenter.do')
 
-WebUI.setText(findTestObject('Object Repository/PC/Login Page/Page_DEV mode - 50.5.0.1714 Guidewire PolicyCenter/Login_username_field'), 
-    'aapplegate')
+WebUI.setEncryptedText(findTestObject('Object Repository/PC/Login Page/Page_DEV mode - 50.5.0.1714 Guidewire PolicyCenter/Login_username_field'), 
+    GlobalVariable.userName)
 
 WebUI.setEncryptedText(findTestObject('Object Repository/PC/Login Page/Page_DEV mode - 50.5.0.1714 Guidewire PolicyCenter/Login_password_field'), 
-    'Kkxx2RTdi68=')
+    GlobalVariable.password)
 
 WebUI.click(findTestObject('Object Repository/PC/Login Page/Page_DEV mode - 50.5.0.1714 Guidewire PolicyCenter/Login_btn'))
-
-WebUI.click(findTestObject('Object Repository/PC/Summary Screen/Page_DEV mode - 50.5.0.1714 Guidewire Polic_7aa939/div_c_gw-icon gw-icon--expand'))
-
-WebUI.click(findTestObject('Object Repository/PC/Summary Screen/Page_DEV mode - 50.5.0.1714 Guidewire Polic_7aa939/div_New Account'))
-
-WebUI.setText(findTestObject('PC/New Account - Search Account - Person/Page_DEV mode - 50.5.0.1714 Guidewire Polic_686088/input_First name_NewAccount-NewAccountScree_398924'), 
-    FName)
-
-WebUI.setText(findTestObject('Object Repository/PC/New Account - Search Account - Person/Page_DEV mode - 50.5.0.1714 Guidewire Polic_686088/input_Last name_NewAccount-NewAccountScreen_48f3a6'), 
-    LName)
-
-WebUI.click(findTestObject('Object Repository/PC/New Account - Search Account - Person/Page_DEV mode - 50.5.0.1714 Guidewire Polic_686088/div_Search'))
 
