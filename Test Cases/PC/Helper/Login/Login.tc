@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login with Global Variables</description>
+   <name>Login</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>13cc6593-8e20-47c5-9203-cfda6995bdb7</testCaseGuid>
+</TestCaseEntity>

@@ -2,8 +2,11 @@
 .env
 .project
 .classpath
+.project
+.prj
 
 
 #ignoring specific directires
 /bin/
 /Reports/
+/Screenshots/
