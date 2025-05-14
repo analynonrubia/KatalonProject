@@ -5,8 +5,16 @@
 .project
 .prj
 
-
 #ignoring specific directires
 /bin/
 /Reports/
 /Screenshots/
+
+#ignoring file extension type
+#*.groovy
+
+#ignoring specific file pattern within a folder
+/Libs/*Temp
+
+#make exception file
+#!sample.log
