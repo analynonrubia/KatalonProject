@@ -1,6 +1,5 @@
 #ignoring specific file
 .env
-.project
 .classpath
 .project
 .prj
